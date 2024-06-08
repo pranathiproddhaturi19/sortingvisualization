@@ -4,7 +4,7 @@
 
 This web application visualizes various sorting algorithms, helping users understand how they work through animations. It demonstrates algorithms like Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort. This project is ideal for beginners and a great refresher for professionals interested in data structures and algorithms.
 
-## Project Structure
+### Project Structure
 sorting_visualizer/
 ├── js_files/
 │ ├── bubble.js
