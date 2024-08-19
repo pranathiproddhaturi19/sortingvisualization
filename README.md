@@ -5,5 +5,3 @@ Features:
 
 Supports popular sorting algorithms like Bubble Sort, Selection Sort, Merge Sort, and Quick Sort.
 Users can control the visualization speed and adjust the data size.
-
-CLICK HERE:https://pranathiproddhaturi19.github.io/sortingvisualization/
