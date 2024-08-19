@@ -3,5 +3,5 @@ This project provides an interactive visualization tool for various sorting algo
 
 Features:
 
-Supports popular sorting algorithms like Bubble Sort, Selection Sort, Merge Sort, and Quick Sort.
+Supports popular sorting algorithms like Bubble Sort, Selection Sort, Insertion sort.
 Users can control the visualization speed and adjust the data size.
